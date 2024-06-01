@@ -2,16 +2,16 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/charTemplate.xsd">
 	<classId>117</classId>
 	<staticData>
-		<baseINT>20</baseINT>
-		<baseSTR>39</baseSTR>
-		<baseCON>45</baseCON>
-		<baseMEN>27</baseMEN>
-		<baseDEX>29</baseDEX>
-		<baseWIT>10</baseWIT>
-		<basePAtk>4</basePAtk>
+		<baseINT>40</baseINT>
+		<baseSTR>80</baseSTR>
+		<baseCON>90</baseCON>
+		<baseMEN>60</baseMEN>
+		<baseDEX>60</baseDEX>
+		<baseWIT>20</baseWIT>
+		<basePAtk>8</basePAtk>
 		<baseCritRate>4</baseCritRate>
 		<baseAtkType>FIST</baseAtkType>
-		<basePAtkSpd>300</basePAtkSpd>
+		<basePAtkSpd>600</basePAtkSpd>
 		<basePDef>
 			<chest>31</chest>
 			<legs>18</legs>
@@ -40,7 +40,7 @@
 		<baseRndDam>10</baseRndDam>
 		<baseMoveSpd>
 			<walk>80</walk>
-			<run>115</run>
+			<run>215</run>
 			<slowSwim>50</slowSwim>
 			<fastSwim>50</fastSwim>
 		</baseMoveSpd>
